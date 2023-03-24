@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Frist line
+Second line
+=======
+1 line
+2 line
+>>>>>>> main
+First line
 Second line
